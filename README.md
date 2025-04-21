@@ -18,4 +18,6 @@
 
 7.调节震动级别（✅）
 
+## 暂不开源
+
 ## 致谢：[TrollSpeed（82）](https://github.com/Lessica/TrollSpeed)、巨魔分屏作者：神様
