@@ -62,6 +62,6 @@ V1.3.0为免费版的最后一个版本，免费版将不再更新，目前已�
 
 5.之前打赏过的可凭付费截图补差价。
 
-## 付费版购买联系QQ330027025或[TG群https://t.me/+Z0E0u5QGVFhjOWI1](https://t.me/+Z0E0u5QGVFhjOWI1)
+## 付费版购买联系QQ330027025或[TG群https://t.me/trollopentrollopen](https://t.me/trollopentrollopen)
 
 ## 致谢：[TrollSpeed（82）](https://github.com/Lessica/TrollSpeed)、巨魔分屏作者：神様
