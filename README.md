@@ -22,8 +22,12 @@
 
 9.搜索功能（✅）
 
-## 付费版1.5版本
+## 付费版1.7版本
 执行快捷指令无需跳转
+
+新增边缘模式
+
+新增app资源库
 
 最大可支持40个app（快捷指令）
 
@@ -62,6 +66,6 @@ V1.3.0为免费版的最后一个版本，免费版将不再更新，目前已�
 
 5.之前打赏过的可凭付费截图补差价。
 
-## 付费版购买联系QQ330027025或[TG群https://t.me/trollopentrollopen](https://t.me/trollopentrollopen)
+## 付费版购买联系QQ群：1040357353或[TG群https://t.me/trollopentrollopen](https://t.me/trollopentrollopen)
 
 ## 致谢：[TrollSpeed（82）](https://github.com/Lessica/TrollSpeed)、巨魔分屏作者：神様
