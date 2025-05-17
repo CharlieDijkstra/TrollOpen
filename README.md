@@ -65,4 +65,4 @@ V1.4.0为免费版的最新版本，之后可能会更新一下英文版，真�
 
 ## 付费版购买联系QQ群：1040357353或[TG群https://t.me/trollopentrollopen](https://t.me/trollopentrollopen)
 
-## 致谢：[TrollSpeed（82）](https://github.com/Lessica/TrollSpeed)、巨魔分屏作者：神様
+## 致谢：[TrollSpeed（82）](https://github.com/Lessica/TrollSpeed)、巨魔分屏作者：神様、[FrontBoardAppLauncher（khanhduytran0](https://github.com/khanhduytran0/FrontBoardAppLauncher)
